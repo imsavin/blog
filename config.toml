@@ -3,9 +3,7 @@ languageCode = 'ru'
 title = 'Linux engineer blog'
 theme = 'hugo-coder'
 
-
-languagecode = "ru"
-defaultcontentlanguage = "un"
+defaultcontentlanguage = "ru"
 
 paginate = 20
 
@@ -28,7 +26,7 @@ pygmentscodefencesguesssyntax = true
 
   enableTwemoji = true
 
-  colorScheme = "auto"
+  colorScheme = "dark"
   hidecolorschemetoggle = false
 
 #  customCSS = ["css/custom.css"]
