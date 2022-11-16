@@ -62,7 +62,7 @@ pygmentscodefencesguesssyntax = true
   name = "Telegram"
   icon = "fa fa-telegram fa-2x"
   weight = 2
-  url = "mailto:garwallim@gmail.com"
+  url = "https://t.me/le_avial"
 
 [[params.social]]
   name = "Twitter"
