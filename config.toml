@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Ilya Savin"
-  info = "HPC Linux Engeneer and beyond"
+  info = "HPC Linux Engineer and beyond"
   description = "my own little webdiary"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
@@ -45,18 +45,37 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/imsavin"
+
+[[params.social]]
+  name = "Mail"
+  icon = "fa fa-envelope fa-2x"
+  weight = 2
+  url = "mailto:garwallim@gmail.com"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/avial/"
+
+[[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 2
+  url = "mailto:garwallim@gmail.com"
+
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
+  weight = 4
   url = "https://twitter.com/le_avial/"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "Блог"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "Обо мне"
   weight = 2
   url = "about/"
